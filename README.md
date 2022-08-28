@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi! I'm Misael Rodrigues
+  Hi! I'm Misael Rodrigues | English
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="header" align="center">
@@ -29,7 +29,24 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/misael-rodrigues-b9772783/)
+
+<h1 align="center">
+  Olá, eu sou Misael Rodrigues | Português
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+---
+
+### :woman_technologist: About Me :
+Eu Sou Desenvolvedor Front End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.
+- :telescope: Gosto de trabalhar como Desenvolvedor de Software e contribuir com a construção de aplicações web.
+
+- :seedling: Explorando a Escrita de Conteúdo Técnico.
+
+- :zap: No meu tempo livre, resolvo problemas e desenvolvo coisas novas.
+
+- :mailbox:Contato: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/misael-rodrigues-b9772783/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
