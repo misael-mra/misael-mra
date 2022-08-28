@@ -46,7 +46,7 @@ Eu Sou Desenvolvedor Front End <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: No meu tempo livre, resolvo problemas e desenvolvo coisas novas.
 
-- :mailbox:Contato: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/misael-rodrigues-b9772783/)
+- :mailbox: Contato: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/misael-rodrigues-b9772783/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
