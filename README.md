@@ -38,7 +38,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: Sobre mim :
 Eu Sou Desenvolvedor Front End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.
 - :telescope: Gosto de trabalhar como Desenvolvedor de Software e contribuir com a construção de aplicações web.
 
