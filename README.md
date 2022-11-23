@@ -15,7 +15,7 @@ Meu nome é Misael, sou desenvolvedor com foco em aplicações web &nbsp; <img s
 
 - :mailbox: Contato: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/misael-rodrigues-b9772783/)
 
-### :hammer_and_wrench: Linguagens e ferramentas :
+### :hammer_and_wrench: Linguagens e ferramentas que mais utilizo:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
