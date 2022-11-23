@@ -1,17 +1,17 @@
 <h1 align="center">
-  Olá, eu sou Misael Rodrigues, seja bem vindo ao meu repositório!
+  Olá, Seja bem vindo ao meu repositório!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
 
 ### :woman_technologist: Sobre mim :
-Eu sou Desenvolvedor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil.
-- :telescope: Gosto de trabalhar como Desenvolvedor de Software e contribuir com a construção de aplicações web.
+Meu nome é Misael, sou desenvolvedor com foco em aplicações web &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: Gosto de trabalhar com desenvolvimento de software e contribuir com a construção de aplicações web.
 
-- :seedling: Explorando a Escrita de Conteúdo Técnico.
+- :seedling: Explorando e aprendendo a cada dia novas técnicas e boas práticas de programação.
 
-- :zap: No meu tempo livre, resolvo problemas e desenvolvo coisas novas.
+- :zap: No meu tempo livre, estudo e desenvolvo coisas novas.
 
 - :mailbox: Contato: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/misael-rodrigues-b9772783/)
 
