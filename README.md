@@ -7,7 +7,7 @@
 
 ### :woman_technologist: Sobre mim :
 Meu nome é Misael, sou desenvolvedor com foco em aplicações web &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: Gosto de trabalhar com desenvolvimento de software e contribuir com a construção de aplicações web.
+- :telescope: Gosto de trabalhar com desenvolvimento de software e contribuir com a construção de aplicações e sistemas para internet.
 
 - :seedling: Explorando e aprendendo a cada dia novas técnicas e boas práticas de programação.
 
